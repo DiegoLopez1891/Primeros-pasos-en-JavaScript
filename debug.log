@@ -1,0 +1,2 @@
+[1011/121912.144:ERROR:settings.cc(430)] Settings version is not 5
+[1011/121914.617:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\eltit\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\74f88e7f-5bf9-447e-b651-02302fe8c77f: El sistema no puede encontrar la ruta especificada. (0x3)
